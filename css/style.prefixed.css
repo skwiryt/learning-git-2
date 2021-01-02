@@ -21,6 +21,7 @@ body {
 }
 
 .footer {
+    display: -ms-flexbox;
     display: flex;
     
     font-style: italic;
